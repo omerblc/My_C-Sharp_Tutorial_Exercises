@@ -1,0 +1,15 @@
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\bin\Debug\net6.0\Console.Write_and_Console.WriteLine.exe
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\bin\Debug\net6.0\Console.Write_and_Console.WriteLine.deps.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\bin\Debug\net6.0\Console.Write_and_Console.WriteLine.runtimeconfig.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\bin\Debug\net6.0\Console.Write_and_Console.WriteLine.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\bin\Debug\net6.0\Console.Write_and_Console.WriteLine.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\Console.Write_and_Console.WriteLine.csproj.AssemblyReference.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\Console.Write_and_Console.WriteLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\Console.Write_and_Console.WriteLine.AssemblyInfoInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\Console.Write_and_Console.WriteLine.AssemblyInfo.cs
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\Console.Write_and_Console.WriteLine.csproj.CoreCompileInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\Console.Write_and_Console.WriteLine.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\refint\Console.Write_and_Console.WriteLine.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\Console.Write_and_Console.WriteLine.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\Console.Write_and_Console.WriteLine.genruntimeconfig.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Console.Write_and_Console.WriteLine\Console.Write_and_Console.WriteLine\obj\Debug\net6.0\ref\Console.Write_and_Console.WriteLine.dll
