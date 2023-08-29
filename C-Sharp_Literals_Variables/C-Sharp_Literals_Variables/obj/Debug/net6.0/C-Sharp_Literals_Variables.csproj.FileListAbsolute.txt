@@ -1,0 +1,15 @@
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\bin\Debug\net6.0\C-Sharp_Literals_Variables.exe
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\bin\Debug\net6.0\C-Sharp_Literals_Variables.deps.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\bin\Debug\net6.0\C-Sharp_Literals_Variables.runtimeconfig.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\bin\Debug\net6.0\C-Sharp_Literals_Variables.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\bin\Debug\net6.0\C-Sharp_Literals_Variables.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\C-Sharp_Literals_Variables.csproj.AssemblyReference.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\C-Sharp_Literals_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\C-Sharp_Literals_Variables.AssemblyInfoInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\C-Sharp_Literals_Variables.AssemblyInfo.cs
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\C-Sharp_Literals_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\C-Sharp_Literals_Variables.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\refint\C-Sharp_Literals_Variables.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\C-Sharp_Literals_Variables.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\C-Sharp_Literals_Variables.genruntimeconfig.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Literals_Variables\C-Sharp_Literals_Variables\obj\Debug\net6.0\ref\C-Sharp_Literals_Variables.dll
