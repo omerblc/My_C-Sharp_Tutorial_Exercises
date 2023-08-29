@@ -1,4 +1,4 @@
-# My_C-Sharp_Projects
+# My C# Projects
 Projects I made to learn C#.
 
 My tutorial exercises.
