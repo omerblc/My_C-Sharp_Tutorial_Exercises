@@ -1,0 +1,15 @@
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\bin\Debug\net6.0\C-Sharp_Escape_Sequences.exe
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\bin\Debug\net6.0\C-Sharp_Escape_Sequences.deps.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\bin\Debug\net6.0\C-Sharp_Escape_Sequences.runtimeconfig.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\bin\Debug\net6.0\C-Sharp_Escape_Sequences.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\bin\Debug\net6.0\C-Sharp_Escape_Sequences.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\C-Sharp_Escape_Sequences.csproj.AssemblyReference.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\C-Sharp_Escape_Sequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\C-Sharp_Escape_Sequences.AssemblyInfoInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\C-Sharp_Escape_Sequences.AssemblyInfo.cs
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\C-Sharp_Escape_Sequences.csproj.CoreCompileInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\C-Sharp_Escape_Sequences.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\refint\C-Sharp_Escape_Sequences.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\C-Sharp_Escape_Sequences.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\C-Sharp_Escape_Sequences.genruntimeconfig.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Escape_Sequences\C-Sharp_Escape_Sequences\obj\Debug\net6.0\ref\C-Sharp_Escape_Sequences.dll
