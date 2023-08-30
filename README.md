@@ -6,3 +6,4 @@ My tutorial exercises.
   2) Console.Write_and_Console.WriteLine
   3) C-Sharp_Literals_Variables
   4) Variables
+  5) C-Sharp_Escape_Sequences
