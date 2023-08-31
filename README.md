@@ -7,3 +7,4 @@ My tutorial exercises.
   3) C-Sharp_Literals_Variables
   4) Variables
   5) C-Sharp_Escape_Sequences
+  6) Concatenate_Strings
