@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Concatenate_Strings/1.0.0": {
+        "runtime": {
+          "Concatenate_Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Concatenate_Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

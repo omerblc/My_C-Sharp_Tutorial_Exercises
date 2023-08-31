@@ -1,0 +1,15 @@
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\Concatenate_Strings.csproj.AssemblyReference.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\Concatenate_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\Concatenate_Strings.AssemblyInfoInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\Concatenate_Strings.AssemblyInfo.cs
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\Concatenate_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\bin\Debug\net6.0\Concatenate_Strings.exe
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\bin\Debug\net6.0\Concatenate_Strings.deps.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\bin\Debug\net6.0\Concatenate_Strings.runtimeconfig.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\bin\Debug\net6.0\Concatenate_Strings.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\bin\Debug\net6.0\Concatenate_Strings.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\Concatenate_Strings.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\refint\Concatenate_Strings.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\Concatenate_Strings.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\Concatenate_Strings.genruntimeconfig.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Concatenate_Strings\Concatenate_Strings\obj\Debug\net6.0\ref\Concatenate_Strings.dll
