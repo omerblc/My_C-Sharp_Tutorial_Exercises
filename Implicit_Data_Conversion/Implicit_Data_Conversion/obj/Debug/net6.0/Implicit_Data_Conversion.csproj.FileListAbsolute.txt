@@ -1,0 +1,15 @@
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\bin\Debug\net6.0\Implicit_Data_Conversion.exe
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\bin\Debug\net6.0\Implicit_Data_Conversion.deps.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\bin\Debug\net6.0\Implicit_Data_Conversion.runtimeconfig.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\bin\Debug\net6.0\Implicit_Data_Conversion.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\bin\Debug\net6.0\Implicit_Data_Conversion.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\Implicit_Data_Conversion.csproj.AssemblyReference.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\Implicit_Data_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\Implicit_Data_Conversion.AssemblyInfoInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\Implicit_Data_Conversion.AssemblyInfo.cs
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\Implicit_Data_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\Implicit_Data_Conversion.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\refint\Implicit_Data_Conversion.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\Implicit_Data_Conversion.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\Implicit_Data_Conversion.genruntimeconfig.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Implicit_Data_Conversion\Implicit_Data_Conversion\obj\Debug\net6.0\ref\Implicit_Data_Conversion.dll

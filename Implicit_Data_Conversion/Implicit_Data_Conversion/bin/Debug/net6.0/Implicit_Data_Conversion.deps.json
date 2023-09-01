@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Implicit_Data_Conversion/1.0.0": {
+        "runtime": {
+          "Implicit_Data_Conversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implicit_Data_Conversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
