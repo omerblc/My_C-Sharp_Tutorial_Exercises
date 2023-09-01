@@ -8,3 +8,4 @@ My tutorial exercises.
   4) Variables
   5) C-Sharp_Escape_Sequences
   6) Concatenate_Strings
+  7) Implicit_Data_Conversion
