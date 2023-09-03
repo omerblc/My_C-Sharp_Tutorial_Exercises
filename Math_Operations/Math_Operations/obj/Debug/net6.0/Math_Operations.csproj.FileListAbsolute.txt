@@ -1,0 +1,15 @@
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\bin\Debug\net6.0\Math_Operations.exe
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\bin\Debug\net6.0\Math_Operations.deps.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\bin\Debug\net6.0\Math_Operations.runtimeconfig.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\bin\Debug\net6.0\Math_Operations.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\bin\Debug\net6.0\Math_Operations.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\Math_Operations.csproj.AssemblyReference.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\Math_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\Math_Operations.AssemblyInfoInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\Math_Operations.AssemblyInfo.cs
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\Math_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\Math_Operations.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\refint\Math_Operations.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\Math_Operations.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\Math_Operations.genruntimeconfig.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\Math_Operations\Math_Operations\obj\Debug\net6.0\ref\Math_Operations.dll
