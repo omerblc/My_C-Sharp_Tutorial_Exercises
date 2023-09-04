@@ -1,7 +1,7 @@
-# My_C-Sharp_Projects
+# My_C-Sharp_Tutorial_Exercises
+
 Projects I made to learn C#.
 
-My tutorial exercises.
   1) HelloWorld
   2) Console.Write_and_Console.WriteLine
   3) C-Sharp_Literals_Variables
