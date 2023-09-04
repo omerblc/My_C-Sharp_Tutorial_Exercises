@@ -1,0 +1,15 @@
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.csproj.AssemblyReference.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.AssemblyInfoInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.AssemblyInfo.cs
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.csproj.CoreCompileInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\bin\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.exe
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\bin\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.deps.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\bin\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.runtimeconfig.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\bin\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\bin\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\refint\C-Sharp_Converting_Fahrenheit_to_Celsius.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\C-Sharp_Converting_Fahrenheit_to_Celsius.genruntimeconfig.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\C-Sharp_Converting_Fahrenheit_to_Celsius\C-Sharp_Converting_Fahrenheit_to_Celsius\obj\Debug\net6.0\ref\C-Sharp_Converting_Fahrenheit_to_Celsius.dll
