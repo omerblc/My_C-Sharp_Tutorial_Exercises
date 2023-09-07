@@ -1,6 +1,6 @@
 # My_C-Sharp_Tutorial_Exercises
 
-Projects I made to learn C#.
+Practices I made to learn C#.
 
   1) HelloWorld
   2) Console.Write_and_Console.WriteLine
