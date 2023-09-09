@@ -1,0 +1,15 @@
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\bin\Debug\net6.0\calculate-final-gpa.exe
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\bin\Debug\net6.0\calculate-final-gpa.deps.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\bin\Debug\net6.0\calculate-final-gpa.runtimeconfig.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\bin\Debug\net6.0\calculate-final-gpa.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\bin\Debug\net6.0\calculate-final-gpa.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\calculate-final-gpa.csproj.AssemblyReference.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\calculate-final-gpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\calculate-final-gpa.AssemblyInfoInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\calculate-final-gpa.AssemblyInfo.cs
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\calculate-final-gpa.csproj.CoreCompileInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\calculate-final-gpa.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\refint\calculate-final-gpa.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\calculate-final-gpa.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\calculate-final-gpa.genruntimeconfig.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-final-gpa\calculate-final-gpa\obj\Debug\net6.0\ref\calculate-final-gpa.dll
