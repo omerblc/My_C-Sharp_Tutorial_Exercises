@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "calculate-print-student-grades/1.0.0": {
+        "runtime": {
+          "calculate-print-student-grades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculate-print-student-grades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

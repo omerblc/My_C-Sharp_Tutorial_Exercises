@@ -1,0 +1,15 @@
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\calculate-print-student-grades.csproj.AssemblyReference.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\calculate-print-student-grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\calculate-print-student-grades.AssemblyInfoInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\calculate-print-student-grades.AssemblyInfo.cs
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\calculate-print-student-grades.csproj.CoreCompileInputs.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\bin\Debug\net6.0\calculate-print-student-grades.exe
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\bin\Debug\net6.0\calculate-print-student-grades.deps.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\bin\Debug\net6.0\calculate-print-student-grades.runtimeconfig.json
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\bin\Debug\net6.0\calculate-print-student-grades.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\bin\Debug\net6.0\calculate-print-student-grades.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\calculate-print-student-grades.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\refint\calculate-print-student-grades.dll
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\calculate-print-student-grades.pdb
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\calculate-print-student-grades.genruntimeconfig.cache
+C:\Users\Mmrbl\OneDrive\Masaüstü\My C# Projects\calculate-print-student-grades\calculate-print-student-grades\obj\Debug\net6.0\ref\calculate-print-student-grades.dll
