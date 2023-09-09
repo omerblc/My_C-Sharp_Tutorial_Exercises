@@ -12,3 +12,4 @@ Practices I made to learn C#.
   8) Math_Operations
   9) C-Sharp_Converting_Fahrenheit_to_Celsius
   10) calculate-print-student-grades
+  11) calculate-final-gpa
