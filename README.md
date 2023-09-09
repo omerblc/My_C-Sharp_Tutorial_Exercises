@@ -11,3 +11,4 @@ Practices I made to learn C#.
   7) Implicit_Data_Conversion
   8) Math_Operations
   9) C-Sharp_Converting_Fahrenheit_to_Celsius
+  10) calculate-print-student-grades
