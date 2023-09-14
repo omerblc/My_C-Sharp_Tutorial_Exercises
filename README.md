@@ -1,6 +1,5 @@
 # My_C-Sharp_Tutorial_Exercises
-
-Practices I made to learn C#.
+This repository contains practices that I made to learn C#.
 
   1) HelloWorld
   2) Console.Write_and_Console.WriteLine
